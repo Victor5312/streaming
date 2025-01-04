@@ -1,0 +1,25 @@
+[
+    {
+      "type": "filme",
+      "title": "Os Simpsons - Homer Papai Noel 2024",
+      "cover": "img/os-simpsons-homer-papai-noel.jpg",
+      "url": "https://drive.google.com/file/d/11-mGMYt1UPNsWPtIdWyTwukU3E6m8NpX/view?usp=drive_link"
+    },
+    {
+      "type": "filme",
+      "title": "Filme 2",
+      "cover": "capa-filme2.jpg",
+      "url": "https://drive.google.com/uc?id=ID_FILME_2"
+    },
+    {
+      "type": "serie",
+      "title": "Série 1",
+      "cover": "capa-serie1.jpg",
+      "episodes": [
+        "https://drive.google.com/file/d/11-mGMYt1UPNsWPtIdWyTwukU3E6m8NpX/view?usp=drive_link",
+        "https://drive.google.com/file/d/11-mGMYt1UPNsWPtIdWyTwukU3E6m8NpX/view?usp=drive_link",
+        "https://drive.google.com/uc?id=ID_EPISODIO_3"
+      ]
+    }
+  ]
+  
